@@ -1,0 +1,2 @@
+# harjoittelu_bot
+# niilesbotti
